@@ -2,7 +2,7 @@ class Solution {
     public boolean isSubsequence(String s, String t) {
 
           char st1[] = s.toCharArray();
-        char st2[] = t.toCharArray();
+        char st2[] = b.toCharArray();
 
         int j = 0;
 
