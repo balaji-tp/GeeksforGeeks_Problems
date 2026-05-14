@@ -13,13 +13,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 # 📚 Structured Problem Solving Topics
 
 
-### Array
+### Math
 <details>
-<summary>Click to expand Array problems</summary>
+<summary>Click to expand Math problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
+| 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
 
 </details>
 
