@@ -41,6 +41,3 @@
 
 <p>&nbsp;</p>
 <strong>Follow up:</strong> Could you solve it without converting the integer to a string?
-
----
-*Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
