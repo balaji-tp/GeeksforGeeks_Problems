@@ -19,30 +19,36 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 78 | [Subsets](./Array/Subsets/) | Medium |
+| 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 
 </details>
 
 
-### Hash Table
+### Database
 <details>
-<summary>Click to expand Hash Table problems</summary>
+<summary>Click to expand Database problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
+| 176 | [Second Highest Salary](./Database/Second%20Highest%20Salary/) | Medium |
+| 182 | [Duplicate Emails](./Database/Duplicate%20Emails/) | Easy |
+| 511 | [Game Play Analysis I](./Database/Game%20Play%20Analysis%20I/) | Easy |
+| 584 | [Find Customer Referee](./Database/Find%20Customer%20Referee/) | Easy |
+| 595 | [Big Countries](./Database/Big%20Countries/) | Easy |
+| 1527 | [Patients With a Condition](./Database/Patients%20With%20a%20Condition/) | Easy |
+| 1683 | [Invalid Tweets](./Database/Invalid%20Tweets/) | Easy |
+| 1757 | [Recyclable and Low Fat Products](./Database/Recyclable%20and%20Low%20Fat%20Products/) | Easy |
 
 </details>
 
 
-### Math
+### General
 <details>
-<summary>Click to expand Math problems</summary>
+<summary>Click to expand General problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
-| 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
+| — | [Find Customer Referee](./General/Find%20Customer%20Referee/) | Medium |
 
 </details>
 
