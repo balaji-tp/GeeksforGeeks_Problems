@@ -36,6 +36,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
+| 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
+| 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
 | 463 | [Island Perimeter](./Array/Island%20Perimeter/) | Easy |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
 | 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
@@ -62,6 +64,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3147 | [Taking Maximum Energy From the Mystic Dungeon](./Array/Taking%20Maximum%20Energy%20From%20the%20Mystic%20Dungeon/) | Medium |
 | 3186 | [Maximum Total Damage With Spell Casting](./Array/Maximum%20Total%20Damage%20With%20Spell%20Casting/) | Medium |
 | 3494 | [Find the Minimum Amount of Time to Brew Potions](./Array/Find%20the%20Minimum%20Amount%20of%20Time%20to%20Brew%20Potions/) | Medium |
+
+</details>
+
+
+### Backtracking
+<details>
+<summary>Click to expand Backtracking problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 401 | [Binary Watch](./Backtracking/Binary%20Watch/) | Easy |
 
 </details>
 
@@ -110,6 +123,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 383 | [Ransom Note](./Hash%20Table/Ransom%20Note/) | Easy |
 | 387 | [First Unique Character in a String](./Hash%20Table/First%20Unique%20Character%20in%20a%20String/) | Easy |
+| 409 | [Longest Palindrome](./Hash%20Table/Longest%20Palindrome/) | Easy |
 | 653 | [Two Sum IV - Input is a BST](./Hash%20Table/Two%20Sum%20IV%20-%20Input%20is%20a%20BST/) | Easy |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](./Hash%20Table/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/) | Easy |
 
@@ -141,6 +155,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
+| 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
+| 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
+| 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
+| 441 | [Arranging Coins](./Math/Arranging%20Coins/) | Easy |
 | 492 | [Construct the Rectangle](./Math/Construct%20the%20Rectangle/) | Easy |
 | 504 | [Base 7](./Math/Base%207/) | Easy |
 | 507 | [Perfect Number](./Math/Perfect%20Number/) | Easy |
@@ -172,6 +190,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
+| 434 | [Number of Segments in a String](./String/Number%20of%20Segments%20in%20a%20String/) | Easy |
 | 459 | [Repeated Substring Pattern](./String/Repeated%20Substring%20Pattern/) | Easy |
 | 482 | [License Key Formatting](./String/License%20Key%20Formatting/) | Easy |
 | 520 | [Detect Capital](./String/Detect%20Capital/) | Easy |
@@ -189,6 +208,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
+| 404 | [Sum of Left Leaves](./Tree/Sum%20of%20Left%20Leaves/) | Easy |
 | 501 | [Find Mode in Binary Search Tree](./Tree/Find%20Mode%20in%20Binary%20Search%20Tree/) | Easy |
 | 543 | [Diameter of Binary Tree](./Tree/Diameter%20of%20Binary%20Tree/) | Easy |
 | 559 | [Maximum Depth of N-ary Tree](./Tree/Maximum%20Depth%20of%20N-ary%20Tree/) | Easy |

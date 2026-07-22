@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:04:21.411Z",
+  "lastUpdated": "2026-07-22T15:04:28.230Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1982,6 +1982,193 @@
               "runtime": "33 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/String/Repeated Substring Pattern/"
+            }
+          }
+        },
+        "assign-cookies": {
+          "questionId": "455",
+          "title": "Assign Cookies",
+          "titleSlug": "assign-cookies",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732668230,
+              "runtime": "15 ms",
+              "memory": "51.7 MB",
+              "githubPath": "LeetCode/Array/Assign Cookies/"
+            }
+          }
+        },
+        "find-all-numbers-disappeared-in-an-array": {
+          "questionId": "448",
+          "title": "Find All Numbers Disappeared in an Array",
+          "titleSlug": "find-all-numbers-disappeared-in-an-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732668230,
+              "runtime": "7 ms",
+              "memory": "67 MB",
+              "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
+            }
+          }
+        },
+        "arranging-coins": {
+          "questionId": "441",
+          "title": "Arranging Coins",
+          "titleSlug": "arranging-coins",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732668230,
+              "runtime": "5 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Math/Arranging Coins/"
+            }
+          }
+        },
+        "number-of-segments-in-a-string": {
+          "questionId": "434",
+          "title": "Number of Segments in a String",
+          "titleSlug": "number-of-segments-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732668230,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/String/Number of Segments in a String/"
+            }
+          }
+        },
+        "add-strings": {
+          "questionId": "415",
+          "title": "Add Strings",
+          "titleSlug": "add-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732668230,
+              "runtime": "2 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Math/Add Strings/"
+            }
+          }
+        },
+        "fizz-buzz": {
+          "questionId": "412",
+          "title": "Fizz Buzz",
+          "titleSlug": "fizz-buzz",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732668230,
+              "runtime": "1 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Math/Fizz Buzz/"
+            }
+          }
+        },
+        "longest-palindrome": {
+          "questionId": "409",
+          "title": "Longest Palindrome",
+          "titleSlug": "longest-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732668230,
+              "runtime": "5 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
+            }
+          }
+        },
+        "convert-a-number-to-hexadecimal": {
+          "questionId": "405",
+          "title": "Convert a Number to Hexadecimal",
+          "titleSlug": "convert-a-number-to-hexadecimal",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732668230,
+              "runtime": "0 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Math/Convert a Number to Hexadecimal/"
+            }
+          }
+        },
+        "sum-of-left-leaves": {
+          "questionId": "404",
+          "title": "Sum of Left Leaves",
+          "titleSlug": "sum-of-left-leaves",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732668230,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Tree/Sum of Left Leaves/"
+            }
+          }
+        },
+        "binary-watch": {
+          "questionId": "401",
+          "title": "Binary Watch",
+          "titleSlug": "binary-watch",
+          "difficulty": "Easy",
+          "tags": [
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732668230,
+              "runtime": "1 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Backtracking/Binary Watch/"
             }
           }
         }
