@@ -16,25 +16,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 15 | [3Sum](./Array/3Sum/) | Medium |
+| 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
+| 18 | [4Sum](./Array/4Sum/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
-| 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
-| 495 | [Teemo Attacking](./Array/Teemo%20Attacking/) | Easy |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
-
-</details>
-
-
-### Binary Search
-<details>
-<summary>Click to expand Binary Search problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 222 | [Count Complete Tree Nodes](./Binary%20Search/Count%20Complete%20Tree%20Nodes/) | Medium |
-| 278 | [First Bad Version](./Binary%20Search/First%20Bad%20Version/) | Easy |
 
 </details>
 
@@ -57,23 +46,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
-### Dynamic Programming
-<details>
-<summary>Click to expand Dynamic Programming problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 338 | [Counting Bits](./Dynamic%20Programming/Counting%20Bits/) | Easy |
-
-</details>
-
-
 ### Hash Table
 <details>
 <summary>Click to expand Hash Table problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
+| 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
+| 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 
 </details>
@@ -85,7 +66,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
+| 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
 
 </details>
 
@@ -96,9 +77,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
-| 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 
 </details>
 
@@ -109,7 +88,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 22 | [Generate Parentheses](./String/Generate%20Parentheses/) | Medium |
+| 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
+| 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
 
 </details>
 
@@ -120,7 +100,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 392 | [Is Subsequence](./Two%20Pointers/Is%20Subsequence/) | Easy |
+| 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
 
 </details>
 
