@@ -25,14 +25,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 33 | [Search in Rotated Sorted Array](./Array/Search%20in%20Rotated%20Sorted%20Array/) | Medium |
+| 35 | [Search Insert Position](./Array/Search%20Insert%20Position/) | Easy |
 | 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
 | 46 | [Permutations](./Array/Permutations/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 78 | [Subsets](./Array/Subsets/) | Medium |
+| 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
 | 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
 | 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
 | 119 | [Pascal's Triangle II](./Array/Pascal's%20Triangle%20II/) | Easy |
+| 120 | [Triangle](./Array/Triangle/) | Medium |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
@@ -40,6 +43,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
+| 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
@@ -47,6 +51,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
 | 407 | [Trapping Rain Water II](./Array/Trapping%20Rain%20Water%20II/) | Hard |
+| 414 | [Third Maximum Number](./Array/Third%20Maximum%20Number/) | Easy |
 | 417 | [Pacific Atlantic Water Flow](./Array/Pacific%20Atlantic%20Water%20Flow/) | Medium |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
@@ -57,17 +62,20 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
 | 506 | [Relative Ranks](./Array/Relative%20Ranks/) | Easy |
 | 594 | [Longest Harmonious Subsequence](./Array/Longest%20Harmonious%20Subsequence/) | Easy |
+| 611 | [Valid Triangle Number](./Array/Valid%20Triangle%20Number/) | Medium |
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
 | 645 | [Set Mismatch](./Array/Set%20Mismatch/) | Easy |
 | 661 | [Image Smoother](./Array/Image%20Smoother/) | Easy |
 | 674 | [Longest Continuous Increasing Subsequence](./Array/Longest%20Continuous%20Increasing%20Subsequence/) | Easy |
+| 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 724 | [Find Pivot Index](./Array/Find%20Pivot%20Index/) | Easy |
 | 733 | [Flood Fill](./Array/Flood%20Fill/) | Easy |
 | 744 | [Find Smallest Letter Greater Than Target](./Array/Find%20Smallest%20Letter%20Greater%20Than%20Target/) | Easy |
 | 746 | [Min Cost Climbing Stairs](./Array/Min%20Cost%20Climbing%20Stairs/) | Easy |
 | 778 | [Swim in Rising Water](./Array/Swim%20in%20Rising%20Water/) | Hard |
 | 812 | [Largest Triangle Area](./Array/Largest%20Triangle%20Area/) | Easy |
+| 896 | [Monotonic Array](./Array/Monotonic%20Array/) | Easy |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 976 | [Largest Perimeter Triangle](./Array/Largest%20Perimeter%20Triangle/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
@@ -89,7 +97,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2273 | [Find Resultant Array After Removing Anagrams](./Array/Find%20Resultant%20Array%20After%20Removing%20Anagrams/) | Easy |
 | 2293 | [Min Max Game](./Array/Min%20Max%20Game/) | Easy |
 | 2300 | [Successful Pairs of Spells and Potions](./Array/Successful%20Pairs%20of%20Spells%20and%20Potions/) | Medium |
+| 2529 | [Maximum Count of Positive Integer and Negative Integer](./Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) | Easy |
 | 2598 | [Smallest Missing Non-negative Integer After Operations](./Array/Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/) | Medium |
+| 3005 | [Count Elements With Maximum Frequency](./Array/Count%20Elements%20With%20Maximum%20Frequency/) | Easy |
 | 3147 | [Taking Maximum Energy From the Mystic Dungeon](./Array/Taking%20Maximum%20Energy%20From%20the%20Mystic%20Dungeon/) | Medium |
 | 3186 | [Maximum Total Damage With Spell Casting](./Array/Maximum%20Total%20Damage%20With%20Spell%20Casting/) | Medium |
 | 3217 | [Delete Nodes From Linked List Present in Array](./Array/Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array/) | Medium |
@@ -198,7 +208,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
+| 166 | [Fraction to Recurring Decimal](./Hash%20Table/Fraction%20to%20Recurring%20Decimal/) | Medium |
 | 202 | [Happy Number](./Hash%20Table/Happy%20Number/) | Easy |
+| 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
 | 383 | [Ransom Note](./Hash%20Table/Ransom%20Note/) | Easy |
@@ -225,6 +237,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
 | 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
 | 203 | [Remove Linked List Elements](./Linked%20List/Remove%20Linked%20List%20Elements/) | Easy |
+| 234 | [Palindrome Linked List](./Linked%20List/Palindrome%20Linked%20List/) | Easy |
 | 237 | [Delete Node in a Linked List](./Linked%20List/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
 | 1290 | [Convert Binary Number in a Linked List to Integer](./Linked%20List/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/) | Easy |
 
@@ -244,7 +257,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
 | 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
+| 171 | [Excel Sheet Column Number](./Math/Excel%20Sheet%20Column%20Number/) | Easy |
+| 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
+| 263 | [Ugly Number](./Math/Ugly%20Number/) | Easy |
+| 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
 | 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
 | 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
@@ -276,6 +293,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
 | 145 | [Binary Tree Postorder Traversal](./Stack/Binary%20Tree%20Postorder%20Traversal/) | Easy |
 | 155 | [Min Stack](./Stack/Min%20Stack/) | Medium |
+| 225 | [Implement Stack using Queues](./Stack/Implement%20Stack%20using%20Queues/) | Easy |
 
 </details>
 
@@ -317,6 +335,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
 | 101 | [Symmetric Tree](./Tree/Symmetric%20Tree/) | Easy |
 | 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
+| 111 | [Minimum Depth of Binary Tree](./Tree/Minimum%20Depth%20of%20Binary%20Tree/) | Easy |
 | 404 | [Sum of Left Leaves](./Tree/Sum%20of%20Left%20Leaves/) | Easy |
 | 501 | [Find Mode in Binary Search Tree](./Tree/Find%20Mode%20in%20Binary%20Search%20Tree/) | Easy |
 | 543 | [Diameter of Binary Tree](./Tree/Diameter%20of%20Binary%20Tree/) | Easy |
@@ -338,6 +357,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 | 151 | [Reverse Words in a String](./Two%20Pointers/Reverse%20Words%20in%20a%20String/) | Medium |
+| 344 | [Reverse String](./Two%20Pointers/Reverse%20String/) | Easy |
 | 392 | [Is Subsequence](./Two%20Pointers/Is%20Subsequence/) | Easy |
 | 541 | [Reverse String II](./Two%20Pointers/Reverse%20String%20II/) | Easy |
 | 557 | [Reverse Words in a String III](./Two%20Pointers/Reverse%20Words%20in%20a%20String%20III/) | Easy |
