@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:24:41.802Z",
+  "lastUpdated": "2026-07-22T15:24:47.507Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2548,7 +2548,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732694604,
+              "syncedAt": 1784733887507,
               "runtime": "14 ms",
               "memory": "90.7 MB",
               "githubPath": "LeetCode/Array/Minimum Time to Make Rope Colorful/"
@@ -2568,7 +2568,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732694604,
+              "syncedAt": 1784733887507,
               "runtime": "0 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
@@ -2588,7 +2588,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732694604,
+              "syncedAt": 1784733887507,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
@@ -2607,7 +2607,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732694604,
+              "syncedAt": 1784733887507,
               "runtime": "362 ms",
               "memory": "221.3 MB",
               "githubPath": "LeetCode/Array/Count Unguarded Cells in the Grid/"
@@ -2626,7 +2626,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732694604,
+              "syncedAt": 1784733887507,
               "runtime": "21 ms",
               "memory": "178.3 MB",
               "githubPath": "LeetCode/Array/Delete Nodes From Linked List Present in Array/"
@@ -2645,7 +2645,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732694604,
+              "syncedAt": 1784733887507,
               "runtime": "1 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Array/The Two Sneaky Numbers of Digitville/"
@@ -2666,7 +2666,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732694604,
+              "syncedAt": 1784733887507,
               "runtime": "3 ms",
               "memory": "56.6 MB",
               "githubPath": "LeetCode/Array/Minimum Number of Increments on Subarrays to Form a Target Array/"
@@ -2684,7 +2684,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732694604,
+              "syncedAt": 1784733887507,
               "runtime": "0 ms",
               "memory": "41.1 MB",
               "githubPath": "LeetCode/Math/Smallest Number With All Set Bits/"
@@ -2703,7 +2703,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732694604,
+              "syncedAt": 1784733887507,
               "runtime": "4 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Array/Make Array Elements Equal to Zero/"
@@ -2723,7 +2723,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732694604,
+              "syncedAt": 1784733887507,
               "runtime": "13 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Number of Laser Beams in a Bank/"
