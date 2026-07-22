@@ -20,15 +20,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
 | 18 | [4Sum](./Array/4Sum/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
-| 119 | [Pascal's Triangle II](./Array/Pascal's%20Triangle%20II/) | Easy |
+| 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
-| 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
-| 2043 | [Simple Bank System](./Array/Simple%20Bank%20System/) | Medium |
+| 1684 | [Count the Number of Consistent Strings](./Array/Count%20the%20Number%20of%20Consistent%20Strings/) | Easy |
+| 2011 | [Final Value of Variable After Performing Operations](./Array/Final%20Value%20of%20Variable%20After%20Performing%20Operations/) | Easy |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
-| 3346 | [Maximum Frequency of an Element After Performing Operations I](./Array/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20I/) | Medium |
-| 3347 | [Maximum Frequency of an Element After Performing Operations II](./Array/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20II/) | Hard |
+| 2598 | [Smallest Missing Non-negative Integer After Operations](./Array/Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/) | Medium |
+| 3397 | [Maximum Number of Distinct Elements After Operations](./Array/Maximum%20Number%20of%20Distinct%20Elements%20After%20Operations/) | Medium |
 
 </details>
 
@@ -51,6 +51,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Divide and Conquer
+<details>
+<summary>Click to expand Divide and Conquer problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 191 | [Number of 1 Bits](./Divide%20and%20Conquer/Number%20of%201%20Bits/) | Easy |
+
+</details>
+
+
 ### Hash Table
 <details>
 <summary>Click to expand Hash Table problems</summary>
@@ -61,7 +72,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
-| 2048 | [Next Greater Numerically Balanced Number](./Hash%20Table/Next%20Greater%20Numerically%20Balanced%20Number/) | Medium |
 
 </details>
 
@@ -84,9 +94,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
-| 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
-| 1716 | [Calculate Money in Leetcode Bank](./Math/Calculate%20Money%20in%20Leetcode%20Bank/) | Easy |
-| 3461 | [Check If Digits Are Equal in String After Operations I](./Math/Check%20If%20Digits%20Are%20Equal%20in%20String%20After%20Operations%20I/) | Easy |
 
 </details>
 
@@ -99,6 +106,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
+| 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
+| 1625 | [Lexicographically Smallest String After Applying Operations](./String/Lexicographically%20Smallest%20String%20After%20Applying%20Operations/) | Medium |
+| 3003 | [Maximize the Number of Partitions After Operations](./String/Maximize%20the%20Number%20of%20Partitions%20After%20Operations/) | Hard |
 
 </details>
 
@@ -110,6 +120,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
+| 125 | [Valid Palindrome](./Two%20Pointers/Valid%20Palindrome/) | Easy |
 
 </details>
 
