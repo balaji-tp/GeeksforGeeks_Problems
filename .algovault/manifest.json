@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T16:08:49.098Z",
+  "lastUpdated": "2026-07-22T16:16:50.319Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4110,6 +4110,12 @@
           "solutions": {
             "java 21": {
               "syncedAt": 1784736529098,
+              "runtime": "500 ms",
+              "memory": "1500 KB",
+              "githubPath": "Codeforces/brute force/Watermelon/"
+            },
+            "java": {
+              "syncedAt": 1784737010319,
               "runtime": "500 ms",
               "memory": "1500 KB",
               "githubPath": "Codeforces/brute force/Watermelon/"
