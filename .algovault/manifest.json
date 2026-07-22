@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T14:19:04.378Z",
+  "lastUpdated": "2026-07-22T14:19:17.312Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -681,135 +681,359 @@
             }
           }
         },
-        "pacific-atlantic-water-flow": {
-          "questionId": "417",
-          "title": "Pacific Atlantic Water Flow",
-          "titleSlug": "pacific-atlantic-water-flow",
+        "water-bottles-ii": {
+          "questionId": "3100",
+          "title": "Water Bottles II",
+          "titleSlug": "water-bottles-ii",
           "difficulty": "Medium",
           "tags": [
-            "Array",
-            "Depth-First Search",
-            "Breadth-First Search",
-            "Matrix"
+            "Math",
+            "Simulation"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729944378,
-              "runtime": "4 ms",
-              "memory": "46.2 MB",
-              "githubPath": "LeetCode/Array/Pacific Atlantic Water Flow/"
+              "syncedAt": 1784729957311,
+              "runtime": "0 ms",
+              "memory": "40.7 MB",
+              "githubPath": "LeetCode/Math/Water Bottles II/"
             }
           }
         },
-        "container-with-most-water": {
-          "questionId": "11",
-          "title": "Container With Most Water",
-          "titleSlug": "container-with-most-water",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Two Pointers",
-            "Greedy"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729944378,
-              "runtime": "4 ms",
-              "memory": "58.3 MB",
-              "githubPath": "LeetCode/Array/Container With Most Water/"
-            }
-          }
-        },
-        "binary-tree-inorder-traversal": {
-          "questionId": "94",
-          "title": "Binary Tree Inorder Traversal",
-          "titleSlug": "binary-tree-inorder-traversal",
+        "longest-common-prefix": {
+          "questionId": "14",
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
           "difficulty": "Easy",
           "tags": [
-            "Stack",
+            "Array",
+            "String",
+            "Trie"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729957312,
+              "runtime": "0 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/Array/Longest Common Prefix/"
+            }
+          }
+        },
+        "water-bottles": {
+          "questionId": "1518",
+          "title": "Water Bottles",
+          "titleSlug": "water-bottles",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729957312,
+              "runtime": "0 ms",
+              "memory": "40.7 MB",
+              "githubPath": "LeetCode/Math/Water Bottles/"
+            }
+          }
+        },
+        "find-triangular-sum-of-an-array": {
+          "questionId": "2221",
+          "title": "Find Triangular Sum of an Array",
+          "titleSlug": "find-triangular-sum-of-an-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Simulation",
+            "Combinatorics",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729957312,
+              "runtime": "46 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Find Triangular Sum of an Array/"
+            }
+          }
+        },
+        "binary-prefix-divisible-by-5": {
+          "questionId": "1018",
+          "title": "Binary Prefix Divisible By 5",
+          "titleSlug": "binary-prefix-divisible-by-5",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729957312,
+              "runtime": "3 ms",
+              "memory": "45.7 MB",
+              "githubPath": "LeetCode/Array/Binary Prefix Divisible By 5/"
+            }
+          }
+        },
+        "maximum-depth-of-binary-tree": {
+          "questionId": "104",
+          "title": "Maximum Depth of Binary Tree",
+          "titleSlug": "maximum-depth-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
             "Tree",
             "Depth-First Search",
+            "Breadth-First Search",
             "Binary Tree"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729944378,
+              "syncedAt": 1784729957312,
               "runtime": "0 ms",
-              "memory": "42.1 MB",
-              "githubPath": "LeetCode/Stack/Binary Tree Inorder Traversal/"
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
             }
           }
         },
-        "length-of-last-word": {
-          "questionId": "58",
-          "title": "Length of Last Word",
-          "titleSlug": "length-of-last-word",
+        "symmetric-tree": {
+          "questionId": "101",
+          "title": "Symmetric Tree",
+          "titleSlug": "symmetric-tree",
           "difficulty": "Easy",
           "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729957312,
+              "runtime": "0 ms",
+              "memory": "41.7 MB",
+              "githubPath": "LeetCode/Tree/Symmetric Tree/"
+            }
+          }
+        },
+        "min-max-game": {
+          "questionId": "2293",
+          "title": "Min Max Game",
+          "titleSlug": "min-max-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729957312,
+              "runtime": "1 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Min Max Game/"
+            }
+          }
+        },
+        "roman-to-integer": {
+          "questionId": "13",
+          "title": "Roman to Integer",
+          "titleSlug": "roman-to-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
             "String"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729944378,
-              "runtime": "0 ms",
-              "memory": "41.8 MB",
-              "githubPath": "LeetCode/String/Length of Last Word/"
+              "syncedAt": 1784729957312,
+              "runtime": "5 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Hash Table/Roman to Integer/"
             }
           }
         },
-        "trapping-rain-water-ii": {
-          "questionId": "407",
-          "title": "Trapping Rain Water II",
-          "titleSlug": "trapping-rain-water-ii",
-          "difficulty": "Hard",
+        "rotate-array": {
+          "questionId": "189",
+          "title": "Rotate Array",
+          "titleSlug": "rotate-array",
+          "difficulty": "Medium",
           "tags": [
             "Array",
-            "Breadth-First Search",
-            "Heap (Priority Queue)",
-            "Matrix"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729944378,
-              "runtime": "18 ms",
-              "memory": "46.6 MB",
-              "githubPath": "LeetCode/Array/Trapping Rain Water II/"
-            }
-          }
-        },
-        "remove-element": {
-          "questionId": "27",
-          "title": "Remove Element",
-          "titleSlug": "remove-element",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
+            "Math",
             "Two Pointers"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729944378,
+              "syncedAt": 1784729957312,
               "runtime": "0 ms",
-              "memory": "42.2 MB",
-              "githubPath": "LeetCode/Array/Remove Element/"
+              "memory": "57.5 MB",
+              "githubPath": "LeetCode/Array/Rotate Array/"
             }
           }
         },
-        "merge-two-sorted-lists": {
-          "questionId": "21",
-          "title": "Merge Two Sorted Lists",
-          "titleSlug": "merge-two-sorted-lists",
-          "difficulty": "Easy",
+        "minimum-score-triangulation-of-polygon": {
+          "questionId": "1039",
+          "title": "Minimum Score Triangulation of Polygon",
+          "titleSlug": "minimum-score-triangulation-of-polygon",
+          "difficulty": "Medium",
           "tags": [
-            "Linked List",
-            "Recursion"
+            "Array",
+            "Dynamic Programming"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729944378,
+              "syncedAt": 1784729957312,
+              "runtime": "5 ms",
+              "memory": "41.1 MB",
+              "githubPath": "LeetCode/Array/Minimum Score Triangulation of Polygon/"
+            }
+          }
+        },
+        "max-consecutive-ones": {
+          "questionId": "485",
+          "title": "Max Consecutive Ones",
+          "titleSlug": "max-consecutive-ones",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729957312,
+              "runtime": "3 ms",
+              "memory": "50.1 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones/"
+            }
+          }
+        },
+        "climbing-stairs": {
+          "questionId": "70",
+          "title": "Climbing Stairs",
+          "titleSlug": "climbing-stairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729957312,
               "runtime": "0 ms",
-              "memory": "42.6 MB",
-              "githubPath": "LeetCode/Linked List/Merge Two Sorted Lists/"
+              "memory": "40.8 MB",
+              "githubPath": "LeetCode/Math/Climbing Stairs/"
+            }
+          }
+        },
+        "reverse-bits": {
+          "questionId": "190",
+          "title": "Reverse Bits",
+          "titleSlug": "reverse-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Divide and Conquer",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729957312,
+              "runtime": "0 ms",
+              "memory": "40.7 MB",
+              "githubPath": "LeetCode/Divide and Conquer/Reverse Bits/"
+            }
+          }
+        },
+        "range-sum-query-immutable": {
+          "questionId": "303",
+          "title": "Range Sum Query - Immutable",
+          "titleSlug": "range-sum-query-immutable",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Design",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729957312,
+              "runtime": "7 ms",
+              "memory": "49.4 MB",
+              "githubPath": "LeetCode/Array/Range Sum Query - Immutable/"
+            }
+          }
+        },
+        "pascals-triangle": {
+          "questionId": "118",
+          "title": "Pascal's Triangle",
+          "titleSlug": "pascals-triangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729957312,
+              "runtime": "1 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle/"
+            }
+          }
+        },
+        "largest-perimeter-triangle": {
+          "questionId": "976",
+          "title": "Largest Perimeter Triangle",
+          "titleSlug": "largest-perimeter-triangle",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729957312,
+              "runtime": "7 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Array/Largest Perimeter Triangle/"
+            }
+          }
+        },
+        "largest-triangle-area": {
+          "questionId": "812",
+          "title": "Largest Triangle Area",
+          "titleSlug": "largest-triangle-area",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729957312,
+              "runtime": "10 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Array/Largest Triangle Area/"
+            }
+          }
+        },
+        "valid-parentheses": {
+          "questionId": "20",
+          "title": "Valid Parentheses",
+          "titleSlug": "valid-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729957312,
+              "runtime": "2 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/String/Valid Parentheses/"
             }
           }
         }

@@ -16,20 +16,27 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
+| 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
 | 15 | [3Sum](./Array/3Sum/) | Medium |
 | 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
 | 18 | [4Sum](./Array/4Sum/) | Medium |
-| 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
+| 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
+| 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
-| 407 | [Trapping Rain Water II](./Array/Trapping%20Rain%20Water%20II/) | Hard |
-| 417 | [Pacific Atlantic Water Flow](./Array/Pacific%20Atlantic%20Water%20Flow/) | Medium |
+| 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
+| 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 778 | [Swim in Rising Water](./Array/Swim%20in%20Rising%20Water/) | Hard |
+| 812 | [Largest Triangle Area](./Array/Largest%20Triangle%20Area/) | Easy |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
+| 976 | [Largest Perimeter Triangle](./Array/Largest%20Perimeter%20Triangle/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
+| 1018 | [Binary Prefix Divisible By 5](./Array/Binary%20Prefix%20Divisible%20By%205/) | Easy |
+| 1039 | [Minimum Score Triangulation of Polygon](./Array/Minimum%20Score%20Triangulation%20of%20Polygon/) | Medium |
 | 1488 | [Avoid Flood in The City](./Array/Avoid%20Flood%20in%20The%20City/) | Medium |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
+| 2221 | [Find Triangular Sum of an Array](./Array/Find%20Triangular%20Sum%20of%20an%20Array/) | Medium |
+| 2293 | [Min Max Game](./Array/Min%20Max%20Game/) | Easy |
 | 2300 | [Successful Pairs of Spells and Potions](./Array/Successful%20Pairs%20of%20Spells%20and%20Potions/) | Medium |
 | 3147 | [Taking Maximum Energy From the Mystic Dungeon](./Array/Taking%20Maximum%20Energy%20From%20the%20Mystic%20Dungeon/) | Medium |
 | 3186 | [Maximum Total Damage With Spell Casting](./Array/Maximum%20Total%20Damage%20With%20Spell%20Casting/) | Medium |
@@ -56,6 +63,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Divide and Conquer
+<details>
+<summary>Click to expand Divide and Conquer problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 190 | [Reverse Bits](./Divide%20and%20Conquer/Reverse%20Bits/) | Easy |
+
+</details>
+
+
 ### Hash Table
 <details>
 <summary>Click to expand Hash Table problems</summary>
@@ -64,6 +82,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
+| 13 | [Roman to Integer](./Hash%20Table/Roman%20to%20Integer/) | Easy |
 | 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 383 | [Ransom Note](./Hash%20Table/Ransom%20Note/) | Easy |
@@ -79,7 +98,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
-| 21 | [Merge Two Sorted Lists](./Linked%20List/Merge%20Two%20Sorted%20Lists/) | Easy |
 
 </details>
 
@@ -91,17 +109,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
-
-</details>
-
-
-### Stack
-<details>
-<summary>Click to expand Stack problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 94 | [Binary Tree Inorder Traversal](./Stack/Binary%20Tree%20Inorder%20Traversal/) | Easy |
+| 70 | [Climbing Stairs](./Math/Climbing%20Stairs/) | Easy |
+| 1518 | [Water Bottles](./Math/Water%20Bottles/) | Easy |
+| 3100 | [Water Bottles II](./Math/Water%20Bottles%20II/) | Medium |
 
 </details>
 
@@ -114,7 +124,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
-| 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 
 </details>
@@ -127,6 +137,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
+| 101 | [Symmetric Tree](./Tree/Symmetric%20Tree/) | Easy |
+| 104 | [Maximum Depth of Binary Tree](./Tree/Maximum%20Depth%20of%20Binary%20Tree/) | Easy |
 
 </details>
 
