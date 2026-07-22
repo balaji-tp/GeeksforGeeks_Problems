@@ -17,6 +17,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 71Unknown | [Unknown Problem](./General/Unknown%20Problem/) | Unrated |
+| 617Unknown | [Unknown Problem](./General/Unknown%20Problem/) | Unrated |
 
 </details>
 
