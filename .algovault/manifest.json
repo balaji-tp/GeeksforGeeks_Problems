@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:04:41.283Z",
+  "lastUpdated": "2026-07-22T15:04:47.878Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2354,6 +2354,184 @@
               "runtime": "2 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/String/Generate Parentheses/"
+            }
+          }
+        },
+        "power-grid-maintenance": {
+          "questionId": "3607",
+          "title": "Power Grid Maintenance",
+          "titleSlug": "power-grid-maintenance",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Graph Theory",
+            "Heap (Priority Queue)",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732687877,
+              "runtime": "18 ms",
+              "memory": "259.1 MB",
+              "githubPath": "LeetCode/Array/Power Grid Maintenance/"
+            }
+          }
+        },
+        "find-the-difference": {
+          "questionId": "389",
+          "title": "Find the Difference",
+          "titleSlug": "find-the-difference",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732687877,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Hash Table/Find the Difference/"
+            }
+          }
+        },
+        "guess-number-higher-or-lower": {
+          "questionId": "374",
+          "title": "Guess Number Higher or Lower",
+          "titleSlug": "guess-number-higher-or-lower",
+          "difficulty": "Easy",
+          "tags": [
+            "Binary Search",
+            "Interactive"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732687877,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Binary Search/Guess Number Higher or Lower/"
+            }
+          }
+        },
+        "find-x-sum-of-all-k-long-subarrays-ii": {
+          "questionId": "3321",
+          "title": "Find X-Sum of All K-Long Subarrays II",
+          "titleSlug": "find-x-sum-of-all-k-long-subarrays-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732687877,
+              "runtime": "395 ms",
+              "memory": "189.1 MB",
+              "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays II/"
+            }
+          }
+        },
+        "binary-tree-paths": {
+          "questionId": "257",
+          "title": "Binary Tree Paths",
+          "titleSlug": "binary-tree-paths",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Backtracking",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732687877,
+              "runtime": "6 ms",
+              "memory": "49.6 MB",
+              "githubPath": "LeetCode/String/Binary Tree Paths/"
+            }
+          }
+        },
+        "remove-linked-list-elements": {
+          "questionId": "203",
+          "title": "Remove Linked List Elements",
+          "titleSlug": "remove-linked-list-elements",
+          "difficulty": "Easy",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732687877,
+              "runtime": "1 ms",
+              "memory": "47.1 MB",
+              "githubPath": "LeetCode/Linked List/Remove Linked List Elements/"
+            }
+          }
+        },
+        "find-x-sum-of-all-k-long-subarrays-i": {
+          "questionId": "3318",
+          "title": "Find X-Sum of All K-Long Subarrays I",
+          "titleSlug": "find-x-sum-of-all-k-long-subarrays-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732687877,
+              "runtime": "10 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays I/"
+            }
+          }
+        },
+        "word-pattern": {
+          "questionId": "290",
+          "title": "Word Pattern",
+          "titleSlug": "word-pattern",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732687877,
+              "runtime": "0 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Hash Table/Word Pattern/"
+            }
+          }
+        },
+        "happy-number": {
+          "questionId": "202",
+          "title": "Happy Number",
+          "titleSlug": "happy-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732687878,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Hash Table/Happy Number/"
             }
           }
         }
