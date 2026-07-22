@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:04:09.982Z",
+  "lastUpdated": "2026-07-22T15:04:15.384Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1627,6 +1627,176 @@
               "runtime": "10 ms",
               "memory": "46.7 MB",
               "githubPath": "LeetCode/String/License Key Formatting/"
+            }
+          }
+        },
+        "set-mismatch": {
+          "questionId": "645",
+          "title": "Set Mismatch",
+          "titleSlug": "set-mismatch",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732655384,
+              "runtime": "2 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Set Mismatch/"
+            }
+          }
+        },
+        "maximum-product-of-three-numbers": {
+          "questionId": "628",
+          "title": "Maximum Product of Three Numbers",
+          "titleSlug": "maximum-product-of-three-numbers",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732655384,
+              "runtime": "15 ms",
+              "memory": "48.3 MB",
+              "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
+            }
+          }
+        },
+        "average-of-levels-in-binary-tree": {
+          "questionId": "637",
+          "title": "Average of Levels in Binary Tree",
+          "titleSlug": "average-of-levels-in-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732655384,
+              "runtime": "2 ms",
+              "memory": "48.5 MB",
+              "githubPath": "LeetCode/Tree/Average of Levels in Binary Tree/"
+            }
+          }
+        },
+        "merge-two-binary-trees": {
+          "questionId": "617",
+          "title": "Merge Two Binary Trees",
+          "titleSlug": "merge-two-binary-trees",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732655384,
+              "runtime": "0 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Tree/Merge Two Binary Trees/"
+            }
+          }
+        },
+        "student-attendance-record-i": {
+          "questionId": "551",
+          "title": "Student Attendance Record I",
+          "titleSlug": "student-attendance-record-i",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732655384,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/String/Student Attendance Record I/"
+            }
+          }
+        },
+        "diameter-of-binary-tree": {
+          "questionId": "543",
+          "title": "Diameter of Binary Tree",
+          "titleSlug": "diameter-of-binary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732655384,
+              "runtime": "0 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Tree/Diameter of Binary Tree/"
+            }
+          }
+        },
+        "reverse-string-ii": {
+          "questionId": "541",
+          "title": "Reverse String II",
+          "titleSlug": "reverse-string-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732655384,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Two Pointers/Reverse String II/"
+            }
+          }
+        },
+        "fibonacci-number": {
+          "questionId": "509",
+          "title": "Fibonacci Number",
+          "titleSlug": "fibonacci-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Recursion",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732655384,
+              "runtime": "0 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Fibonacci Number/"
+            }
+          }
+        },
+        "perfect-number": {
+          "questionId": "507",
+          "title": "Perfect Number",
+          "titleSlug": "perfect-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732655384,
+              "runtime": "2077 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Perfect Number/"
             }
           }
         }
