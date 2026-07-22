@@ -33,6 +33,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### math
+<details>
+<summary>Click to expand math problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 617A | [Elephant](./math/Elephant/) | 800 |
+
+</details>
+
+
 ### strings
 <details>
 <summary>Click to expand strings problems</summary>
