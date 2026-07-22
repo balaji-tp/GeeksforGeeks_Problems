@@ -21,6 +21,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### strings
+<details>
+<summary>Click to expand strings problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 71A | [Way Too Long Words](./strings/Way%20Too%20Long%20Words/) | 800 |
+
+</details>
+
+
 <p align="center">
 Building Technical Excellence Through Consistent Problem Solving.
 </p>
