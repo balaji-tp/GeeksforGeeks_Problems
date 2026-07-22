@@ -18,8 +18,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
-| 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
-| 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
+| 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
+| 495 | [Teemo Attacking](./Array/Teemo%20Attacking/) | Easy |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
@@ -27,13 +27,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
-### Backtracking
+### Binary Search
 <details>
-<summary>Click to expand Backtracking problems</summary>
+<summary>Click to expand Binary Search problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 401 | [Binary Watch](./Backtracking/Binary%20Watch/) | Easy |
+| 222 | [Count Complete Tree Nodes](./Binary%20Search/Count%20Complete%20Tree%20Nodes/) | Medium |
+| 278 | [First Bad Version](./Binary%20Search/First%20Bad%20Version/) | Easy |
 
 </details>
 
@@ -56,6 +57,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### Dynamic Programming
+<details>
+<summary>Click to expand Dynamic Programming problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 338 | [Counting Bits](./Dynamic%20Programming/Counting%20Bits/) | Easy |
+
+</details>
+
+
 ### Hash Table
 <details>
 <summary>Click to expand Hash Table problems</summary>
@@ -63,7 +75,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
-| 409 | [Longest Palindrome](./Hash%20Table/Longest%20Palindrome/) | Easy |
+
+</details>
+
+
+### Linked List
+<details>
+<summary>Click to expand Linked List problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 24 | [Swap Nodes in Pairs](./Linked%20List/Swap%20Nodes%20in%20Pairs/) | Medium |
 
 </details>
 
@@ -74,11 +96,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
-| 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
-| 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
-| 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
-| 441 | [Arranging Coins](./Math/Arranging%20Coins/) | Easy |
+| 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 
 </details>
 
@@ -89,18 +109,18 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 434 | [Number of Segments in a String](./String/Number%20of%20Segments%20in%20a%20String/) | Easy |
+| 22 | [Generate Parentheses](./String/Generate%20Parentheses/) | Medium |
 
 </details>
 
 
-### Tree
+### Two Pointers
 <details>
-<summary>Click to expand Tree problems</summary>
+<summary>Click to expand Two Pointers problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 404 | [Sum of Left Leaves](./Tree/Sum%20of%20Left%20Leaves/) | Easy |
+| 392 | [Is Subsequence](./Two%20Pointers/Is%20Subsequence/) | Easy |
 
 </details>
 

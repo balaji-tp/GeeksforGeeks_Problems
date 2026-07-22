@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T14:18:04.053Z",
+  "lastUpdated": "2026-07-22T14:18:11.014Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -276,48 +276,10 @@
             }
           }
         },
-        "assign-cookies": {
-          "questionId": "455",
-          "title": "Assign Cookies",
-          "titleSlug": "assign-cookies",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Two Pointers",
-            "Greedy",
-            "Sorting"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729884053,
-              "runtime": "15 ms",
-              "memory": "51.7 MB",
-              "githubPath": "LeetCode/Array/Assign Cookies/"
-            }
-          }
-        },
-        "find-all-numbers-disappeared-in-an-array": {
-          "questionId": "448",
-          "title": "Find All Numbers Disappeared in an Array",
-          "titleSlug": "find-all-numbers-disappeared-in-an-array",
-          "difficulty": "Easy",
-          "tags": [
-            "Array",
-            "Hash Table"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729884053,
-              "runtime": "7 ms",
-              "memory": "67 MB",
-              "githubPath": "LeetCode/Array/Find All Numbers Disappeared in an Array/"
-            }
-          }
-        },
-        "arranging-coins": {
-          "questionId": "441",
-          "title": "Arranging Coins",
-          "titleSlug": "arranging-coins",
+        "valid-perfect-square": {
+          "questionId": "367",
+          "title": "Valid Perfect Square",
+          "titleSlug": "valid-perfect-square",
           "difficulty": "Easy",
           "tags": [
             "Math",
@@ -325,141 +287,177 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729884053,
-              "runtime": "5 ms",
-              "memory": "42.8 MB",
-              "githubPath": "LeetCode/Math/Arranging Coins/"
-            }
-          }
-        },
-        "number-of-segments-in-a-string": {
-          "questionId": "434",
-          "title": "Number of Segments in a String",
-          "titleSlug": "number-of-segments-in-a-string",
-          "difficulty": "Easy",
-          "tags": [
-            "String"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729884053,
+              "syncedAt": 1784729891014,
               "runtime": "0 ms",
-              "memory": "42.9 MB",
-              "githubPath": "LeetCode/String/Number of Segments in a String/"
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Math/Valid Perfect Square/"
             }
           }
         },
-        "add-strings": {
-          "questionId": "415",
-          "title": "Add Strings",
-          "titleSlug": "add-strings",
+        "first-bad-version": {
+          "questionId": "278",
+          "title": "First Bad Version",
+          "titleSlug": "first-bad-version",
           "difficulty": "Easy",
           "tags": [
-            "Math",
+            "Binary Search",
+            "Interactive"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729891014,
+              "runtime": "13 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Binary Search/First Bad Version/"
+            }
+          }
+        },
+        "is-subsequence": {
+          "questionId": "392",
+          "title": "Is Subsequence",
+          "titleSlug": "is-subsequence",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
             "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729891014,
+              "runtime": "0 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Two Pointers/Is Subsequence/"
+            }
+          }
+        },
+        "teemo-attacking": {
+          "questionId": "495",
+          "title": "Teemo Attacking",
+          "titleSlug": "teemo-attacking",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
             "Simulation"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729884053,
-              "runtime": "2 ms",
-              "memory": "43.9 MB",
-              "githubPath": "LeetCode/Math/Add Strings/"
+              "syncedAt": 1784729891014,
+              "runtime": "3 ms",
+              "memory": "48.2 MB",
+              "githubPath": "LeetCode/Array/Teemo Attacking/"
             }
           }
         },
-        "fizz-buzz": {
-          "questionId": "412",
-          "title": "Fizz Buzz",
-          "titleSlug": "fizz-buzz",
+        "counting-bits": {
+          "questionId": "338",
+          "title": "Counting Bits",
+          "titleSlug": "counting-bits",
           "difficulty": "Easy",
           "tags": [
-            "Math",
-            "String",
-            "Simulation"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729884053,
-              "runtime": "1 ms",
-              "memory": "46.8 MB",
-              "githubPath": "LeetCode/Math/Fizz Buzz/"
-            }
-          }
-        },
-        "longest-palindrome": {
-          "questionId": "409",
-          "title": "Longest Palindrome",
-          "titleSlug": "longest-palindrome",
-          "difficulty": "Easy",
-          "tags": [
-            "Hash Table",
-            "String",
-            "Greedy"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729884053,
-              "runtime": "5 ms",
-              "memory": "43.4 MB",
-              "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
-            }
-          }
-        },
-        "convert-a-number-to-hexadecimal": {
-          "questionId": "405",
-          "title": "Convert a Number to Hexadecimal",
-          "titleSlug": "convert-a-number-to-hexadecimal",
-          "difficulty": "Easy",
-          "tags": [
-            "Math",
-            "String",
+            "Dynamic Programming",
             "Bit Manipulation"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729884053,
-              "runtime": "0 ms",
-              "memory": "42.5 MB",
-              "githubPath": "LeetCode/Math/Convert a Number to Hexadecimal/"
+              "syncedAt": 1784729891014,
+              "runtime": "2 ms",
+              "memory": "48.8 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Counting Bits/"
             }
           }
         },
-        "sum-of-left-leaves": {
-          "questionId": "404",
-          "title": "Sum of Left Leaves",
-          "titleSlug": "sum-of-left-leaves",
-          "difficulty": "Easy",
+        "count-complete-tree-nodes": {
+          "questionId": "222",
+          "title": "Count Complete Tree Nodes",
+          "titleSlug": "count-complete-tree-nodes",
+          "difficulty": "Medium",
           "tags": [
+            "Binary Search",
+            "Bit Manipulation",
             "Tree",
-            "Depth-First Search",
-            "Breadth-First Search",
             "Binary Tree"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729884053,
+              "syncedAt": 1784729891014,
               "runtime": "0 ms",
-              "memory": "42.9 MB",
-              "githubPath": "LeetCode/Tree/Sum of Left Leaves/"
+              "memory": "49.4 MB",
+              "githubPath": "LeetCode/Binary Search/Count Complete Tree Nodes/"
             }
           }
         },
-        "binary-watch": {
-          "questionId": "401",
-          "title": "Binary Watch",
-          "titleSlug": "binary-watch",
+        "contains-duplicate-ii": {
+          "questionId": "219",
+          "title": "Contains Duplicate II",
+          "titleSlug": "contains-duplicate-ii",
           "difficulty": "Easy",
           "tags": [
-            "Backtracking",
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729891014,
+              "runtime": "20 ms",
+              "memory": "80.7 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate II/"
+            }
+          }
+        },
+        "divide-two-integers": {
+          "questionId": "29",
+          "title": "Divide Two Integers",
+          "titleSlug": "divide-two-integers",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
             "Bit Manipulation"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729884053,
+              "syncedAt": 1784729891014,
               "runtime": "1 ms",
-              "memory": "43.3 MB",
-              "githubPath": "LeetCode/Backtracking/Binary Watch/"
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Math/Divide Two Integers/"
+            }
+          }
+        },
+        "swap-nodes-in-pairs": {
+          "questionId": "24",
+          "title": "Swap Nodes in Pairs",
+          "titleSlug": "swap-nodes-in-pairs",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729891014,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Linked List/Swap Nodes in Pairs/"
+            }
+          }
+        },
+        "generate-parentheses": {
+          "questionId": "22",
+          "title": "Generate Parentheses",
+          "titleSlug": "generate-parentheses",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729891014,
+              "runtime": "2 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/String/Generate Parentheses/"
             }
           }
         }
