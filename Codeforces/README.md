@@ -33,6 +33,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
+### implementation
+<details>
+<summary>Click to expand implementation problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 282A | [Bit++](./implementation/Bit++/) | 800 |
+
+</details>
+
+
 ### math
 <details>
 <summary>Click to expand math problems</summary>
