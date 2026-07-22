@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T14:18:33.004Z",
+  "lastUpdated": "2026-07-22T14:18:38.823Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -462,198 +462,177 @@
             }
           }
         },
-        "minimum-time-to-make-rope-colorful": {
-          "questionId": "1578",
-          "title": "Minimum Time to Make Rope Colorful",
-          "titleSlug": "minimum-time-to-make-rope-colorful",
+        "simple-bank-system": {
+          "questionId": "2043",
+          "title": "Simple Bank System",
+          "titleSlug": "simple-bank-system",
           "difficulty": "Medium",
           "tags": [
             "Array",
-            "String",
-            "Dynamic Programming",
-            "Greedy"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729913004,
-              "runtime": "14 ms",
-              "memory": "90.7 MB",
-              "githubPath": "LeetCode/Array/Minimum Time to Make Rope Colorful/"
-            }
-          }
-        },
-        "binary-tree-postorder-traversal": {
-          "questionId": "145",
-          "title": "Binary Tree Postorder Traversal",
-          "titleSlug": "binary-tree-postorder-traversal",
-          "difficulty": "Easy",
-          "tags": [
-            "Stack",
-            "Tree",
-            "Depth-First Search",
-            "Binary Tree"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729913004,
-              "runtime": "0 ms",
-              "memory": "43 MB",
-              "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
-            }
-          }
-        },
-        "binary-tree-preorder-traversal": {
-          "questionId": "144",
-          "title": "Binary Tree Preorder Traversal",
-          "titleSlug": "binary-tree-preorder-traversal",
-          "difficulty": "Easy",
-          "tags": [
-            "Stack",
-            "Tree",
-            "Depth-First Search",
-            "Binary Tree"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729913004,
-              "runtime": "0 ms",
-              "memory": "42.9 MB",
-              "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
-            }
-          }
-        },
-        "count-unguarded-cells-in-the-grid": {
-          "questionId": "2257",
-          "title": "Count Unguarded Cells in the Grid",
-          "titleSlug": "count-unguarded-cells-in-the-grid",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Matrix",
+            "Hash Table",
+            "Design",
             "Simulation"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729913004,
-              "runtime": "362 ms",
-              "memory": "221.3 MB",
-              "githubPath": "LeetCode/Array/Count Unguarded Cells in the Grid/"
+              "syncedAt": 1784729918823,
+              "runtime": "100 ms",
+              "memory": "101.9 MB",
+              "githubPath": "LeetCode/Array/Simple Bank System/"
             }
           }
         },
-        "delete-nodes-from-linked-list-present-in-array": {
-          "questionId": "3217",
-          "title": "Delete Nodes From Linked List Present in Array",
-          "titleSlug": "delete-nodes-from-linked-list-present-in-array",
-          "difficulty": "Medium",
-          "tags": [
-            "Array",
-            "Hash Table",
-            "Linked List"
-          ],
-          "solutions": {
-            "java": {
-              "syncedAt": 1784729913004,
-              "runtime": "21 ms",
-              "memory": "178.3 MB",
-              "githubPath": "LeetCode/Array/Delete Nodes From Linked List Present in Array/"
-            }
-          }
-        },
-        "the-two-sneaky-numbers-of-digitville": {
-          "questionId": "3289",
-          "title": "The Two Sneaky Numbers of Digitville",
-          "titleSlug": "the-two-sneaky-numbers-of-digitville",
+        "calculate-money-in-leetcode-bank": {
+          "questionId": "1716",
+          "title": "Calculate Money in Leetcode Bank",
+          "titleSlug": "calculate-money-in-leetcode-bank",
           "difficulty": "Easy",
           "tags": [
-            "Array",
-            "Hash Table",
             "Math"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729913004,
-              "runtime": "1 ms",
-              "memory": "45.5 MB",
-              "githubPath": "LeetCode/Array/The Two Sneaky Numbers of Digitville/"
+              "syncedAt": 1784729918823,
+              "runtime": "0 ms",
+              "memory": "40.6 MB",
+              "githubPath": "LeetCode/Math/Calculate Money in Leetcode Bank/"
             }
           }
         },
-        "minimum-number-of-increments-on-subarrays-to-form-a-target-array": {
-          "questionId": "1526",
-          "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
-          "titleSlug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
-          "difficulty": "Hard",
+        "summary-ranges": {
+          "questionId": "228",
+          "title": "Summary Ranges",
+          "titleSlug": "summary-ranges",
+          "difficulty": "Easy",
           "tags": [
-            "Array",
-            "Dynamic Programming",
-            "Stack",
-            "Greedy",
-            "Monotonic Stack"
+            "Array"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729913004,
-              "runtime": "3 ms",
-              "memory": "56.6 MB",
-              "githubPath": "LeetCode/Array/Minimum Number of Increments on Subarrays to Form a Target Array/"
+              "syncedAt": 1784729918823,
+              "runtime": "5 ms",
+              "memory": "42.2 MB",
+              "githubPath": "LeetCode/Array/Summary Ranges/"
             }
           }
         },
-        "smallest-number-with-all-set-bits": {
-          "questionId": "3370",
-          "title": "Smallest Number With All Set Bits",
-          "titleSlug": "smallest-number-with-all-set-bits",
+        "excel-sheet-column-title": {
+          "questionId": "168",
+          "title": "Excel Sheet Column Title",
+          "titleSlug": "excel-sheet-column-title",
           "difficulty": "Easy",
           "tags": [
             "Math",
-            "Bit Manipulation"
+            "String"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729913004,
+              "syncedAt": 1784729918823,
               "runtime": "0 ms",
-              "memory": "41.1 MB",
-              "githubPath": "LeetCode/Math/Smallest Number With All Set Bits/"
+              "memory": "40.7 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Title/"
             }
           }
         },
-        "make-array-elements-equal-to-zero": {
-          "questionId": "3354",
-          "title": "Make Array Elements Equal to Zero",
-          "titleSlug": "make-array-elements-equal-to-zero",
+        "next-greater-numerically-balanced-number": {
+          "questionId": "2048",
+          "title": "Next Greater Numerically Balanced Number",
+          "titleSlug": "next-greater-numerically-balanced-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Backtracking",
+            "Counting",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729918823,
+              "runtime": "2 ms",
+              "memory": "40.8 MB",
+              "githubPath": "LeetCode/Hash Table/Next Greater Numerically Balanced Number/"
+            }
+          }
+        },
+        "pascals-triangle-ii": {
+          "questionId": "119",
+          "title": "Pascal's Triangle II",
+          "titleSlug": "pascals-triangle-ii",
           "difficulty": "Easy",
           "tags": [
             "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729918823,
+              "runtime": "1 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle II/"
+            }
+          }
+        },
+        "check-if-digits-are-equal-in-string-after-operations-i": {
+          "questionId": "3461",
+          "title": "Check If Digits Are Equal in String After Operations I",
+          "titleSlug": "check-if-digits-are-equal-in-string-after-operations-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
             "Simulation",
+            "Combinatorics",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784729918823,
+              "runtime": "1 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Check If Digits Are Equal in String After Operations I/"
+            }
+          }
+        },
+        "maximum-frequency-of-an-element-after-performing-operations-ii": {
+          "questionId": "3347",
+          "title": "Maximum Frequency of an Element After Performing Operations II",
+          "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Sliding Window",
+            "Sorting",
             "Prefix Sum"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729913004,
-              "runtime": "4 ms",
-              "memory": "42.1 MB",
-              "githubPath": "LeetCode/Array/Make Array Elements Equal to Zero/"
+              "syncedAt": 1784729918823,
+              "runtime": "505 ms",
+              "memory": "57 MB",
+              "githubPath": "LeetCode/Array/Maximum Frequency of an Element After Performing Operations II/"
             }
           }
         },
-        "number-of-laser-beams-in-a-bank": {
-          "questionId": "2125",
-          "title": "Number of Laser Beams in a Bank",
-          "titleSlug": "number-of-laser-beams-in-a-bank",
+        "maximum-frequency-of-an-element-after-performing-operations-i": {
+          "questionId": "3346",
+          "title": "Maximum Frequency of an Element After Performing Operations I",
+          "titleSlug": "maximum-frequency-of-an-element-after-performing-operations-i",
           "difficulty": "Medium",
           "tags": [
             "Array",
-            "Math",
-            "String",
-            "Matrix"
+            "Binary Search",
+            "Sliding Window",
+            "Sorting",
+            "Prefix Sum"
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729913004,
+              "syncedAt": 1784729918823,
               "runtime": "13 ms",
-              "memory": "45.3 MB",
-              "githubPath": "LeetCode/Array/Number of Laser Beams in a Bank/"
+              "memory": "56.6 MB",
+              "githubPath": "LeetCode/Array/Maximum Frequency of an Element After Performing Operations I/"
             }
           }
         }
