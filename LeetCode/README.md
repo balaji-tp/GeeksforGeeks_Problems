@@ -37,6 +37,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
+| 733 | [Flood Fill](./Array/Flood%20Fill/) | Easy |
+| 744 | [Find Smallest Letter Greater Than Target](./Array/Find%20Smallest%20Letter%20Greater%20Than%20Target/) | Easy |
+| 746 | [Min Cost Climbing Stairs](./Array/Min%20Cost%20Climbing%20Stairs/) | Easy |
 | 778 | [Swim in Rising Water](./Array/Swim%20in%20Rising%20Water/) | Hard |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
@@ -115,6 +118,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
 | 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 | 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
+| 728 | [Self Dividing Numbers](./Math/Self%20Dividing%20Numbers/) | Easy |
+| 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
 
 </details>
@@ -140,6 +145,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
+| 520 | [Detect Capital](./String/Detect%20Capital/) | Easy |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 
 </details>
@@ -152,6 +158,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
+| 559 | [Maximum Depth of N-ary Tree](./Tree/Maximum%20Depth%20of%20N-ary%20Tree/) | Easy |
 
 </details>
 
@@ -165,6 +172,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 5 | [Longest Palindromic Substring](./Two%20Pointers/Longest%20Palindromic%20Substring/) | Medium |
 | 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 | 151 | [Reverse Words in a String](./Two%20Pointers/Reverse%20Words%20in%20a%20String/) | Medium |
+| 680 | [Valid Palindrome II](./Two%20Pointers/Valid%20Palindrome%20II/) | Easy |
 
 </details>
 

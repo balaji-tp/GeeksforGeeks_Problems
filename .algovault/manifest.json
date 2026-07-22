@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:03:57.966Z",
+  "lastUpdated": "2026-07-22T15:04:03.852Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1295,6 +1295,152 @@
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
+            }
+          }
+        },
+        "detect-capital": {
+          "questionId": "520",
+          "title": "Detect Capital",
+          "titleSlug": "detect-capital",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732643851,
+              "runtime": "2 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/String/Detect Capital/"
+            }
+          }
+        },
+        "prime-number-of-set-bits-in-binary-representation": {
+          "questionId": "762",
+          "title": "Prime Number of Set Bits in Binary Representation",
+          "titleSlug": "prime-number-of-set-bits-in-binary-representation",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732643852,
+              "runtime": "5 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Prime Number of Set Bits in Binary Representation/"
+            }
+          }
+        },
+        "flood-fill": {
+          "questionId": "733",
+          "title": "Flood Fill",
+          "titleSlug": "flood-fill",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732643852,
+              "runtime": "1 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Flood Fill/"
+            }
+          }
+        },
+        "min-cost-climbing-stairs": {
+          "questionId": "746",
+          "title": "Min Cost Climbing Stairs",
+          "titleSlug": "min-cost-climbing-stairs",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732643852,
+              "runtime": "0 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Min Cost Climbing Stairs/"
+            }
+          }
+        },
+        "find-smallest-letter-greater-than-target": {
+          "questionId": "744",
+          "title": "Find Smallest Letter Greater Than Target",
+          "titleSlug": "find-smallest-letter-greater-than-target",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732643852,
+              "runtime": "0 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Find Smallest Letter Greater Than Target/"
+            }
+          }
+        },
+        "valid-palindrome-ii": {
+          "questionId": "680",
+          "title": "Valid Palindrome II",
+          "titleSlug": "valid-palindrome-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732643852,
+              "runtime": "4 ms",
+              "memory": "48 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome II/"
+            }
+          }
+        },
+        "maximum-depth-of-n-ary-tree": {
+          "questionId": "559",
+          "title": "Maximum Depth of N-ary Tree",
+          "titleSlug": "maximum-depth-of-n-ary-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Tree",
+            "Depth-First Search",
+            "Breadth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732643852,
+              "runtime": "0 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/Tree/Maximum Depth of N-ary Tree/"
+            }
+          }
+        },
+        "self-dividing-numbers": {
+          "questionId": "728",
+          "title": "Self Dividing Numbers",
+          "titleSlug": "self-dividing-numbers",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732643852,
+              "runtime": "1 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Math/Self Dividing Numbers/"
             }
           }
         }
