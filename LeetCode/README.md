@@ -23,21 +23,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
+| 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](./Array/Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array/) | Hard |
+| 1578 | [Minimum Time to Make Rope Colorful](./Array/Minimum%20Time%20to%20Make%20Rope%20Colorful/) | Medium |
+| 2125 | [Number of Laser Beams in a Bank](./Array/Number%20of%20Laser%20Beams%20in%20a%20Bank/) | Medium |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
-| 3318 | [Find X-Sum of All K-Long Subarrays I](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/) | Easy |
-| 3321 | [Find X-Sum of All K-Long Subarrays II](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/) | Hard |
-| 3607 | [Power Grid Maintenance](./Array/Power%20Grid%20Maintenance/) | Medium |
-
-</details>
-
-
-### Binary Search
-<details>
-<summary>Click to expand Binary Search problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 374 | [Guess Number Higher or Lower](./Binary%20Search/Guess%20Number%20Higher%20or%20Lower/) | Easy |
+| 2257 | [Count Unguarded Cells in the Grid](./Array/Count%20Unguarded%20Cells%20in%20the%20Grid/) | Medium |
+| 3217 | [Delete Nodes From Linked List Present in Array](./Array/Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array/) | Medium |
+| 3289 | [The Two Sneaky Numbers of Digitville](./Array/The%20Two%20Sneaky%20Numbers%20of%20Digitville/) | Easy |
+| 3354 | [Make Array Elements Equal to Zero](./Array/Make%20Array%20Elements%20Equal%20to%20Zero/) | Easy |
 
 </details>
 
@@ -69,10 +62,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
-| 202 | [Happy Number](./Hash%20Table/Happy%20Number/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
-| 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
-| 389 | [Find the Difference](./Hash%20Table/Find%20the%20Difference/) | Easy |
 
 </details>
 
@@ -84,7 +74,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
-| 203 | [Remove Linked List Elements](./Linked%20List/Remove%20Linked%20List%20Elements/) | Easy |
 
 </details>
 
@@ -96,6 +85,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
+| 3370 | [Smallest Number With All Set Bits](./Math/Smallest%20Number%20With%20All%20Set%20Bits/) | Easy |
+
+</details>
+
+
+### Stack
+<details>
+<summary>Click to expand Stack problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
+| 145 | [Binary Tree Postorder Traversal](./Stack/Binary%20Tree%20Postorder%20Traversal/) | Easy |
 
 </details>
 
@@ -108,7 +110,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
-| 257 | [Binary Tree Paths](./String/Binary%20Tree%20Paths/) | Easy |
 
 </details>
 
