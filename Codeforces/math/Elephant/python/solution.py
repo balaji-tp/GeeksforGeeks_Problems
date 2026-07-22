@@ -1,3 +1,3 @@
 x = int(input())
-a = (x + 4)
-print( a // 5)
+b = 5
+print((x + 4) // b)
