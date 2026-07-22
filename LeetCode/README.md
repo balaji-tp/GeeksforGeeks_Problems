@@ -18,10 +18,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
-| 463 | [Island Perimeter](./Array/Island%20Perimeter/) | Easy |
-| 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
-| 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
-| 506 | [Relative Ranks](./Array/Relative%20Ranks/) | Easy |
+| 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
+| 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
@@ -29,14 +27,13 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 </details>
 
 
-### Bit Manipulation
+### Backtracking
 <details>
-<summary>Click to expand Bit Manipulation problems</summary>
+<summary>Click to expand Backtracking problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 461 | [Hamming Distance](./Bit%20Manipulation/Hamming%20Distance/) | Easy |
-| 476 | [Number Complement](./Bit%20Manipulation/Number%20Complement/) | Easy |
+| 401 | [Binary Watch](./Backtracking/Binary%20Watch/) | Easy |
 
 </details>
 
@@ -66,6 +63,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
+| 409 | [Longest Palindrome](./Hash%20Table/Longest%20Palindrome/) | Easy |
 
 </details>
 
@@ -77,8 +75,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
-| 492 | [Construct the Rectangle](./Math/Construct%20the%20Rectangle/) | Easy |
-| 504 | [Base 7](./Math/Base%207/) | Easy |
+| 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
+| 412 | [Fizz Buzz](./Math/Fizz%20Buzz/) | Easy |
+| 415 | [Add Strings](./Math/Add%20Strings/) | Easy |
+| 441 | [Arranging Coins](./Math/Arranging%20Coins/) | Easy |
 
 </details>
 
@@ -89,7 +89,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 459 | [Repeated Substring Pattern](./String/Repeated%20Substring%20Pattern/) | Easy |
+| 434 | [Number of Segments in a String](./String/Number%20of%20Segments%20in%20a%20String/) | Easy |
 
 </details>
 
@@ -100,7 +100,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 501 | [Find Mode in Binary Search Tree](./Tree/Find%20Mode%20in%20Binary%20Search%20Tree/) | Easy |
+| 404 | [Sum of Left Leaves](./Tree/Sum%20of%20Left%20Leaves/) | Easy |
 
 </details>
 
