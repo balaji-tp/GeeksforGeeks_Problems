@@ -58,15 +58,22 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
 | 1488 | [Avoid Flood in The City](./Array/Avoid%20Flood%20in%20The%20City/) | Medium |
+| 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](./Array/Minimum%20Number%20of%20Increments%20on%20Subarrays%20to%20Form%20a%20Target%20Array/) | Hard |
+| 1578 | [Minimum Time to Make Rope Colorful](./Array/Minimum%20Time%20to%20Make%20Rope%20Colorful/) | Medium |
 | 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
+| 2125 | [Number of Laser Beams in a Bank](./Array/Number%20of%20Laser%20Beams%20in%20a%20Bank/) | Medium |
 | 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
 | 2215 | [Find the Difference of Two Arrays](./Array/Find%20the%20Difference%20of%20Two%20Arrays/) | Easy |
+| 2257 | [Count Unguarded Cells in the Grid](./Array/Count%20Unguarded%20Cells%20in%20the%20Grid/) | Medium |
 | 2300 | [Successful Pairs of Spells and Potions](./Array/Successful%20Pairs%20of%20Spells%20and%20Potions/) | Medium |
 | 3147 | [Taking Maximum Energy From the Mystic Dungeon](./Array/Taking%20Maximum%20Energy%20From%20the%20Mystic%20Dungeon/) | Medium |
 | 3186 | [Maximum Total Damage With Spell Casting](./Array/Maximum%20Total%20Damage%20With%20Spell%20Casting/) | Medium |
+| 3217 | [Delete Nodes From Linked List Present in Array](./Array/Delete%20Nodes%20From%20Linked%20List%20Present%20in%20Array/) | Medium |
+| 3289 | [The Two Sneaky Numbers of Digitville](./Array/The%20Two%20Sneaky%20Numbers%20of%20Digitville/) | Easy |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/) | Easy |
 | 3321 | [Find X-Sum of All K-Long Subarrays II](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/) | Hard |
+| 3354 | [Make Array Elements Equal to Zero](./Array/Make%20Array%20Elements%20Equal%20to%20Zero/) | Easy |
 | 3494 | [Find the Minimum Amount of Time to Brew Potions](./Array/Find%20the%20Minimum%20Amount%20of%20Time%20to%20Brew%20Potions/) | Medium |
 | 3607 | [Power Grid Maintenance](./Array/Power%20Grid%20Maintenance/) | Medium |
 
@@ -202,6 +209,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 728 | [Self Dividing Numbers](./Math/Self%20Dividing%20Numbers/) | Easy |
 | 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
 | 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
+| 3370 | [Smallest Number With All Set Bits](./Math/Smallest%20Number%20With%20All%20Set%20Bits/) | Easy |
 
 </details>
 
@@ -212,6 +220,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
+| 144 | [Binary Tree Preorder Traversal](./Stack/Binary%20Tree%20Preorder%20Traversal/) | Easy |
+| 145 | [Binary Tree Postorder Traversal](./Stack/Binary%20Tree%20Postorder%20Traversal/) | Easy |
 | 155 | [Min Stack](./Stack/Min%20Stack/) | Medium |
 
 </details>

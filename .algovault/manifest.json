@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:04:47.878Z",
+  "lastUpdated": "2026-07-22T15:04:54.604Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2532,6 +2532,201 @@
               "runtime": "1 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Hash Table/Happy Number/"
+            }
+          }
+        },
+        "minimum-time-to-make-rope-colorful": {
+          "questionId": "1578",
+          "title": "Minimum Time to Make Rope Colorful",
+          "titleSlug": "minimum-time-to-make-rope-colorful",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732694604,
+              "runtime": "14 ms",
+              "memory": "90.7 MB",
+              "githubPath": "LeetCode/Array/Minimum Time to Make Rope Colorful/"
+            }
+          }
+        },
+        "binary-tree-postorder-traversal": {
+          "questionId": "145",
+          "title": "Binary Tree Postorder Traversal",
+          "titleSlug": "binary-tree-postorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732694604,
+              "runtime": "0 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Postorder Traversal/"
+            }
+          }
+        },
+        "binary-tree-preorder-traversal": {
+          "questionId": "144",
+          "title": "Binary Tree Preorder Traversal",
+          "titleSlug": "binary-tree-preorder-traversal",
+          "difficulty": "Easy",
+          "tags": [
+            "Stack",
+            "Tree",
+            "Depth-First Search",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732694604,
+              "runtime": "0 ms",
+              "memory": "42.9 MB",
+              "githubPath": "LeetCode/Stack/Binary Tree Preorder Traversal/"
+            }
+          }
+        },
+        "count-unguarded-cells-in-the-grid": {
+          "questionId": "2257",
+          "title": "Count Unguarded Cells in the Grid",
+          "titleSlug": "count-unguarded-cells-in-the-grid",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732694604,
+              "runtime": "362 ms",
+              "memory": "221.3 MB",
+              "githubPath": "LeetCode/Array/Count Unguarded Cells in the Grid/"
+            }
+          }
+        },
+        "delete-nodes-from-linked-list-present-in-array": {
+          "questionId": "3217",
+          "title": "Delete Nodes From Linked List Present in Array",
+          "titleSlug": "delete-nodes-from-linked-list-present-in-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Linked List"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732694604,
+              "runtime": "21 ms",
+              "memory": "178.3 MB",
+              "githubPath": "LeetCode/Array/Delete Nodes From Linked List Present in Array/"
+            }
+          }
+        },
+        "the-two-sneaky-numbers-of-digitville": {
+          "questionId": "3289",
+          "title": "The Two Sneaky Numbers of Digitville",
+          "titleSlug": "the-two-sneaky-numbers-of-digitville",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732694604,
+              "runtime": "1 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/The Two Sneaky Numbers of Digitville/"
+            }
+          }
+        },
+        "minimum-number-of-increments-on-subarrays-to-form-a-target-array": {
+          "questionId": "1526",
+          "title": "Minimum Number of Increments on Subarrays to Form a Target Array",
+          "titleSlug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Stack",
+            "Greedy",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732694604,
+              "runtime": "3 ms",
+              "memory": "56.6 MB",
+              "githubPath": "LeetCode/Array/Minimum Number of Increments on Subarrays to Form a Target Array/"
+            }
+          }
+        },
+        "smallest-number-with-all-set-bits": {
+          "questionId": "3370",
+          "title": "Smallest Number With All Set Bits",
+          "titleSlug": "smallest-number-with-all-set-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732694604,
+              "runtime": "0 ms",
+              "memory": "41.1 MB",
+              "githubPath": "LeetCode/Math/Smallest Number With All Set Bits/"
+            }
+          }
+        },
+        "make-array-elements-equal-to-zero": {
+          "questionId": "3354",
+          "title": "Make Array Elements Equal to Zero",
+          "titleSlug": "make-array-elements-equal-to-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732694604,
+              "runtime": "4 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Array/Make Array Elements Equal to Zero/"
+            }
+          }
+        },
+        "number-of-laser-beams-in-a-bank": {
+          "questionId": "2125",
+          "title": "Number of Laser Beams in a Bank",
+          "titleSlug": "number-of-laser-beams-in-a-bank",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "String",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732694604,
+              "runtime": "13 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Number of Laser Beams in a Bank/"
             }
           }
         }
