@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:23:48.396Z",
+  "lastUpdated": "2026-07-22T15:23:54.109Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1308,7 +1308,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732643851,
+              "syncedAt": 1784733834109,
               "runtime": "2 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/String/Detect Capital/"
@@ -1326,7 +1326,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732643852,
+              "syncedAt": 1784733834109,
               "runtime": "5 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Prime Number of Set Bits in Binary Representation/"
@@ -1346,7 +1346,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732643852,
+              "syncedAt": 1784733834109,
               "runtime": "1 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Array/Flood Fill/"
@@ -1364,7 +1364,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732643852,
+              "syncedAt": 1784733834109,
               "runtime": "0 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/Min Cost Climbing Stairs/"
@@ -1382,7 +1382,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732643852,
+              "syncedAt": 1784733834109,
               "runtime": "0 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Find Smallest Letter Greater Than Target/"
@@ -1401,7 +1401,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732643852,
+              "syncedAt": 1784733834109,
               "runtime": "4 ms",
               "memory": "48 MB",
               "githubPath": "LeetCode/Two Pointers/Valid Palindrome II/"
@@ -1420,7 +1420,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732643852,
+              "syncedAt": 1784733834109,
               "runtime": "0 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of N-ary Tree/"
@@ -1437,7 +1437,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732643852,
+              "syncedAt": 1784733834109,
               "runtime": "1 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Math/Self Dividing Numbers/"
