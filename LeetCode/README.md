@@ -24,6 +24,20 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
+| 3318 | [Find X-Sum of All K-Long Subarrays I](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/) | Easy |
+| 3321 | [Find X-Sum of All K-Long Subarrays II](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/) | Hard |
+| 3607 | [Power Grid Maintenance](./Array/Power%20Grid%20Maintenance/) | Medium |
+
+</details>
+
+
+### Binary Search
+<details>
+<summary>Click to expand Binary Search problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 374 | [Guess Number Higher or Lower](./Binary%20Search/Guess%20Number%20Higher%20or%20Lower/) | Easy |
 
 </details>
 
@@ -55,7 +69,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3 | [Longest Substring Without Repeating Characters](./Hash%20Table/Longest%20Substring%20Without%20Repeating%20Characters/) | Medium |
 | 12 | [Integer to Roman](./Hash%20Table/Integer%20to%20Roman/) | Medium |
 | 17 | [Letter Combinations of a Phone Number](./Hash%20Table/Letter%20Combinations%20of%20a%20Phone%20Number/) | Medium |
+| 202 | [Happy Number](./Hash%20Table/Happy%20Number/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
+| 290 | [Word Pattern](./Hash%20Table/Word%20Pattern/) | Easy |
+| 389 | [Find the Difference](./Hash%20Table/Find%20the%20Difference/) | Easy |
 
 </details>
 
@@ -67,6 +84,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 2 | [Add Two Numbers](./Linked%20List/Add%20Two%20Numbers/) | Medium |
+| 203 | [Remove Linked List Elements](./Linked%20List/Remove%20Linked%20List%20Elements/) | Easy |
 
 </details>
 
@@ -90,6 +108,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
+| 257 | [Binary Tree Paths](./String/Binary%20Tree%20Paths/) | Easy |
 
 </details>
 
