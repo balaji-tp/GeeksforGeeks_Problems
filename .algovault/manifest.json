@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:05:03.615Z",
+  "lastUpdated": "2026-07-22T15:05:10.963Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2901,6 +2901,199 @@
               "runtime": "13 ms",
               "memory": "56.6 MB",
               "githubPath": "LeetCode/Array/Maximum Frequency of an Element After Performing Operations I/"
+            }
+          }
+        },
+        "final-value-of-variable-after-performing-operations": {
+          "questionId": "2011",
+          "title": "Final Value of Variable After Performing Operations",
+          "titleSlug": "final-value-of-variable-after-performing-operations",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732710962,
+              "runtime": "1 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Array/Final Value of Variable After Performing Operations/"
+            }
+          }
+        },
+        "valid-palindrome": {
+          "questionId": "125",
+          "title": "Valid Palindrome",
+          "titleSlug": "valid-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732710963,
+              "runtime": "2 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
+            }
+          }
+        },
+        "lexicographically-smallest-string-after-applying-operations": {
+          "questionId": "1625",
+          "title": "Lexicographically Smallest String After Applying Operations",
+          "titleSlug": "lexicographically-smallest-string-after-applying-operations",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732710963,
+              "runtime": "73 ms",
+              "memory": "46 MB",
+              "githubPath": "LeetCode/String/Lexicographically Smallest String After Applying Operations/"
+            }
+          }
+        },
+        "convert-sorted-array-to-binary-search-tree": {
+          "questionId": "108",
+          "title": "Convert Sorted Array to Binary Search Tree",
+          "titleSlug": "convert-sorted-array-to-binary-search-tree",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Tree",
+            "Binary Search Tree",
+            "Binary Tree"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732710963,
+              "runtime": "0 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Convert Sorted Array to Binary Search Tree/"
+            }
+          }
+        },
+        "maximum-number-of-distinct-elements-after-operations": {
+          "questionId": "3397",
+          "title": "Maximum Number of Distinct Elements After Operations",
+          "titleSlug": "maximum-number-of-distinct-elements-after-operations",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732710963,
+              "runtime": "19 ms",
+              "memory": "57.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Number of Distinct Elements After Operations/"
+            }
+          }
+        },
+        "number-of-1-bits": {
+          "questionId": "191",
+          "title": "Number of 1 Bits",
+          "titleSlug": "number-of-1-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Divide and Conquer",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732710963,
+              "runtime": "0 ms",
+              "memory": "40.7 MB",
+              "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
+            }
+          }
+        },
+        "maximize-the-number-of-partitions-after-operations": {
+          "questionId": "3003",
+          "title": "Maximize the Number of Partitions After Operations",
+          "titleSlug": "maximize-the-number-of-partitions-after-operations",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732710963,
+              "runtime": "499 ms",
+              "memory": "102.2 MB",
+              "githubPath": "LeetCode/String/Maximize the Number of Partitions After Operations/"
+            }
+          }
+        },
+        "count-the-number-of-consistent-strings": {
+          "questionId": "1684",
+          "title": "Count the Number of Consistent Strings",
+          "titleSlug": "count-the-number-of-consistent-strings",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732710963,
+              "runtime": "6 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Count the Number of Consistent Strings/"
+            }
+          }
+        },
+        "smallest-missing-non-negative-integer-after-operations": {
+          "questionId": "2598",
+          "title": "Smallest Missing Non-negative Integer After Operations",
+          "titleSlug": "smallest-missing-non-negative-integer-after-operations",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732710963,
+              "runtime": "7 ms",
+              "memory": "58.3 MB",
+              "githubPath": "LeetCode/Array/Smallest Missing Non-negative Integer After Operations/"
+            }
+          }
+        },
+        "to-lower-case": {
+          "questionId": "709",
+          "title": "To Lower Case",
+          "titleSlug": "to-lower-case",
+          "difficulty": "Easy",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732710963,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/String/To Lower Case/"
             }
           }
         }
