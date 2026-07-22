@@ -16,16 +16,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 1 | [Two Sum](./Array/Two%20Sum/) | Easy |
-| 39 | [Combination Sum](./Array/Combination%20Sum/) | Medium |
-| 46 | [Permutations](./Array/Permutations/) | Medium |
+| 33 | [Search in Rotated Sorted Array](./Array/Search%20in%20Rotated%20Sorted%20Array/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
-| 78 | [Subsets](./Array/Subsets/) | Medium |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
-| 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
+| 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
+| 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
+| 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
+| 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 922 | [Sort Array By Parity II](./Array/Sort%20Array%20By%20Parity%20II/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
+| 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
+| 2150 | [Find All Lonely Numbers in the Array](./Array/Find%20All%20Lonely%20Numbers%20in%20the%20Array/) | Medium |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
+| 2215 | [Find the Difference of Two Arrays](./Array/Find%20the%20Difference%20of%20Two%20Arrays/) | Easy |
 
 </details>
 
@@ -54,8 +57,6 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
-| 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 
 </details>
@@ -67,8 +68,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 83 | [Remove Duplicates from Sorted List](./Linked%20List/Remove%20Duplicates%20from%20Sorted%20List/) | Easy |
-| 237 | [Delete Node in a Linked List](./Linked%20List/Delete%20Node%20in%20a%20Linked%20List/) | Medium |
+| 1290 | [Convert Binary Number in a Linked List to Integer](./Linked%20List/Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/) | Easy |
 
 </details>
 
@@ -79,31 +79,18 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
 | 67 | [Add Binary](./Math/Add%20Binary/) | Easy |
-| 69 | [Sqrt(x)](./Math/Sqrt(x)/) | Easy |
 
 </details>
 
 
-### Stack
+### Two Pointers
 <details>
-<summary>Click to expand Stack problems</summary>
+<summary>Click to expand Two Pointers problems</summary>
 
 | # | Problem | Difficulty |
 |---|---------|------------|
-| 155 | [Min Stack](./Stack/Min%20Stack/) | Medium |
-
-</details>
-
-
-### String
-<details>
-<summary>Click to expand String problems</summary>
-
-| # | Problem | Difficulty |
-|---|---------|------------|
-| 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
+| 28 | [Find the Index of the First Occurrence in a String](./Two%20Pointers/Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/) | Easy |
 
 </details>
 
