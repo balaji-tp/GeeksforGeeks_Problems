@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:05:48.787Z",
+  "lastUpdated": "2026-07-22T15:05:56.255Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -692,7 +692,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729987743,
+              "syncedAt": 1784732756255,
               "runtime": "0 ms",
               "memory": "41.7 MB",
               "githubPath": "LeetCode/Array/Plus One/"
@@ -712,7 +712,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729987743,
+              "syncedAt": 1784732756255,
               "runtime": "5 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
@@ -731,7 +731,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729987743,
+              "syncedAt": 1784732756255,
               "runtime": "1 ms",
               "memory": "40.8 MB",
               "githubPath": "LeetCode/Math/Add Digits/"
@@ -749,7 +749,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729987743,
+              "syncedAt": 1784732756255,
               "runtime": "0 ms",
               "memory": "40.5 MB",
               "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
@@ -767,7 +767,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729987743,
+              "syncedAt": 1784732756255,
               "runtime": "1 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/Array/Single Number/"
@@ -788,7 +788,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729987743,
+              "syncedAt": 1784732756255,
               "runtime": "3 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
@@ -809,7 +809,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729987743,
+              "syncedAt": 1784732756255,
               "runtime": "1 ms",
               "memory": "53.3 MB",
               "githubPath": "LeetCode/Array/Majority Element/"
@@ -827,7 +827,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729987743,
+              "syncedAt": 1784732756255,
               "runtime": "1 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
@@ -845,7 +845,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729987743,
+              "syncedAt": 1784732756255,
               "runtime": "1 ms",
               "memory": "45.8 MB",
               "githubPath": "LeetCode/Array/Move Zeroes/"
@@ -862,7 +862,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729987743,
+              "syncedAt": 1784732756255,
               "runtime": "1 ms",
               "memory": "40.9 MB",
               "githubPath": "LeetCode/Math/Reverse Integer/"
