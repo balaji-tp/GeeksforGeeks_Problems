@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:05:15.860Z",
+  "lastUpdated": "2026-07-22T15:05:24.205Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -478,7 +478,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729938121,
+              "syncedAt": 1784732724205,
               "runtime": "239 ms",
               "memory": "62.4 MB",
               "githubPath": "LeetCode/Array/Maximum Total Damage With Spell Casting/"
@@ -496,7 +496,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729938121,
+              "syncedAt": 1784732724205,
               "runtime": "0 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/String/Rotate String/"
@@ -515,7 +515,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729938121,
+              "syncedAt": 1784732724205,
               "runtime": "2 ms",
               "memory": "63.2 MB",
               "githubPath": "LeetCode/Array/Taking Maximum Energy From the Mystic Dungeon/"
@@ -534,7 +534,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729938121,
+              "syncedAt": 1784732724205,
               "runtime": "1 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Hash Table/Ransom Note/"
@@ -553,7 +553,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729938121,
+              "syncedAt": 1784732724205,
               "runtime": "138 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/Find the Minimum Amount of Time to Brew Potions/"
@@ -572,7 +572,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729938121,
+              "syncedAt": 1784732724205,
               "runtime": "0 ms",
               "memory": "41.9 MB",
               "githubPath": "LeetCode/Hash Table/Check if Number Has Equal Digit Count and Digit Value/"
@@ -592,7 +592,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729938121,
+              "syncedAt": 1784732724205,
               "runtime": "48 ms",
               "memory": "67.4 MB",
               "githubPath": "LeetCode/Array/Successful Pairs of Spells and Potions/"
@@ -613,7 +613,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729938121,
+              "syncedAt": 1784732724205,
               "runtime": "64 ms",
               "memory": "62.6 MB",
               "githubPath": "LeetCode/Array/Avoid Flood in The City/"
@@ -631,7 +631,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729938121,
+              "syncedAt": 1784732724205,
               "runtime": "6 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
@@ -654,7 +654,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729938121,
+              "syncedAt": 1784732724205,
               "runtime": "11 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Swim in Rising Water/"
@@ -674,7 +674,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784729938121,
+              "syncedAt": 1784732724205,
               "runtime": "0 ms",
               "memory": "40.9 MB",
               "githubPath": "LeetCode/Tree/Same Tree/"
