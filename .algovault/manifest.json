@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:25:16.262Z",
+  "lastUpdated": "2026-07-22T15:25:26.381Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3371,7 +3371,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "0 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Math/Water Bottles II/"
@@ -3390,7 +3390,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "0 ms",
               "memory": "41.4 MB",
               "githubPath": "LeetCode/Array/Longest Common Prefix/"
@@ -3408,7 +3408,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "0 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Math/Water Bottles/"
@@ -3429,7 +3429,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "46 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Array/Find Triangular Sum of an Array/"
@@ -3447,7 +3447,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "3 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Array/Binary Prefix Divisible By 5/"
@@ -3467,7 +3467,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Tree/Maximum Depth of Binary Tree/"
@@ -3487,7 +3487,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "0 ms",
               "memory": "41.7 MB",
               "githubPath": "LeetCode/Tree/Symmetric Tree/"
@@ -3505,7 +3505,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "1 ms",
               "memory": "43.7 MB",
               "githubPath": "LeetCode/Array/Min Max Game/"
@@ -3524,7 +3524,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "5 ms",
               "memory": "45 MB",
               "githubPath": "LeetCode/Hash Table/Roman to Integer/"
@@ -3543,7 +3543,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "0 ms",
               "memory": "57.5 MB",
               "githubPath": "LeetCode/Array/Rotate Array/"
@@ -3561,7 +3561,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "5 ms",
               "memory": "41.1 MB",
               "githubPath": "LeetCode/Array/Minimum Score Triangulation of Polygon/"
@@ -3578,7 +3578,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "3 ms",
               "memory": "50.1 MB",
               "githubPath": "LeetCode/Array/Max Consecutive Ones/"
@@ -3597,7 +3597,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "0 ms",
               "memory": "40.8 MB",
               "githubPath": "LeetCode/Math/Climbing Stairs/"
@@ -3615,7 +3615,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "0 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Divide and Conquer/Reverse Bits/"
@@ -3634,7 +3634,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "7 ms",
               "memory": "49.4 MB",
               "githubPath": "LeetCode/Array/Range Sum Query - Immutable/"
@@ -3652,7 +3652,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "1 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Array/Pascal's Triangle/"
@@ -3672,7 +3672,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "7 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Array/Largest Perimeter Triangle/"
@@ -3691,7 +3691,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "10 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Array/Largest Triangle Area/"
@@ -3709,7 +3709,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784732738830,
+              "syncedAt": 1784733926381,
               "runtime": "2 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/String/Valid Parentheses/"
