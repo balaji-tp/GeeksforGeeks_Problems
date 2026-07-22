@@ -72,6 +72,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
 | 2215 | [Find the Difference of Two Arrays](./Array/Find%20the%20Difference%20of%20Two%20Arrays/) | Easy |
 | 2257 | [Count Unguarded Cells in the Grid](./Array/Count%20Unguarded%20Cells%20in%20the%20Grid/) | Medium |
+| 2273 | [Find Resultant Array After Removing Anagrams](./Array/Find%20Resultant%20Array%20After%20Removing%20Anagrams/) | Easy |
 | 2300 | [Successful Pairs of Spells and Potions](./Array/Successful%20Pairs%20of%20Spells%20and%20Potions/) | Medium |
 | 2598 | [Smallest Missing Non-negative Integer After Operations](./Array/Smallest%20Missing%20Non-negative%20Integer%20After%20Operations/) | Medium |
 | 3147 | [Taking Maximum Energy From the Mystic Dungeon](./Array/Taking%20Maximum%20Energy%20From%20the%20Mystic%20Dungeon/) | Medium |
@@ -82,9 +83,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3321 | [Find X-Sum of All K-Long Subarrays II](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20II/) | Hard |
 | 3346 | [Maximum Frequency of an Element After Performing Operations I](./Array/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20I/) | Medium |
 | 3347 | [Maximum Frequency of an Element After Performing Operations II](./Array/Maximum%20Frequency%20of%20an%20Element%20After%20Performing%20Operations%20II/) | Hard |
+| 3349 | [Adjacent Increasing Subarrays Detection I](./Array/Adjacent%20Increasing%20Subarrays%20Detection%20I/) | Easy |
+| 3350 | [Adjacent Increasing Subarrays Detection II](./Array/Adjacent%20Increasing%20Subarrays%20Detection%20II/) | Medium |
 | 3354 | [Make Array Elements Equal to Zero](./Array/Make%20Array%20Elements%20Equal%20to%20Zero/) | Easy |
 | 3397 | [Maximum Number of Distinct Elements After Operations](./Array/Maximum%20Number%20of%20Distinct%20Elements%20After%20Operations/) | Medium |
 | 3494 | [Find the Minimum Amount of Time to Brew Potions](./Array/Find%20the%20Minimum%20Amount%20of%20Time%20to%20Brew%20Potions/) | Medium |
+| 3539 | [Find Sum of Array Product of Magical Sequences](./Array/Find%20Sum%20of%20Array%20Product%20of%20Magical%20Sequences/) | Hard |
 | 3607 | [Power Grid Maintenance](./Array/Power%20Grid%20Maintenance/) | Medium |
 
 </details>
@@ -185,6 +189,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 389 | [Find the Difference](./Hash%20Table/Find%20the%20Difference/) | Easy |
 | 409 | [Longest Palindrome](./Hash%20Table/Longest%20Palindrome/) | Easy |
 | 653 | [Two Sum IV - Input is a BST](./Hash%20Table/Two%20Sum%20IV%20-%20Input%20is%20a%20BST/) | Easy |
+| 771 | [Jewels and Stones](./Hash%20Table/Jewels%20and%20Stones/) | Easy |
+| 1832 | [Check if the Sentence Is Pangram](./Hash%20Table/Check%20if%20the%20Sentence%20Is%20Pangram/) | Easy |
 | 2048 | [Next Greater Numerically Balanced Number](./Hash%20Table/Next%20Greater%20Numerically%20Balanced%20Number/) | Medium |
 | 2283 | [Check if Number Has Equal Digit Count and Digit Value](./Hash%20Table/Check%20if%20Number%20Has%20Equal%20Digit%20Count%20and%20Digit%20Value/) | Easy |
 
@@ -271,6 +277,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 551 | [Student Attendance Record I](./String/Student%20Attendance%20Record%20I/) | Easy |
 | 709 | [To Lower Case](./String/To%20Lower%20Case/) | Easy |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
+| 1047 | [Remove All Adjacent Duplicates In String](./String/Remove%20All%20Adjacent%20Duplicates%20In%20String/) | Easy |
 | 1625 | [Lexicographically Smallest String After Applying Operations](./String/Lexicographically%20Smallest%20String%20After%20Applying%20Operations/) | Medium |
 | 3003 | [Maximize the Number of Partitions After Operations](./String/Maximize%20the%20Number%20of%20Partitions%20After%20Operations/) | Hard |
 

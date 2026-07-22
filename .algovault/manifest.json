@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-22T15:05:10.963Z",
+  "lastUpdated": "2026-07-22T15:05:15.860Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3094,6 +3094,137 @@
               "runtime": "0 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/String/To Lower Case/"
+            }
+          }
+        },
+        "adjacent-increasing-subarrays-detection-ii": {
+          "questionId": "3350",
+          "title": "Adjacent Increasing Subarrays Detection II",
+          "titleSlug": "adjacent-increasing-subarrays-detection-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732715860,
+              "runtime": "14 ms",
+              "memory": "88.9 MB",
+              "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection II/"
+            }
+          }
+        },
+        "adjacent-increasing-subarrays-detection-i": {
+          "questionId": "3349",
+          "title": "Adjacent Increasing Subarrays Detection I",
+          "titleSlug": "adjacent-increasing-subarrays-detection-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732715860,
+              "runtime": "1 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Array/Adjacent Increasing Subarrays Detection I/"
+            }
+          }
+        },
+        "jewels-and-stones": {
+          "questionId": "771",
+          "title": "Jewels and Stones",
+          "titleSlug": "jewels-and-stones",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732715860,
+              "runtime": "1 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Hash Table/Jewels and Stones/"
+            }
+          }
+        },
+        "find-resultant-array-after-removing-anagrams": {
+          "questionId": "2273",
+          "title": "Find Resultant Array After Removing Anagrams",
+          "titleSlug": "find-resultant-array-after-removing-anagrams",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732715860,
+              "runtime": "3 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Find Resultant Array After Removing Anagrams/"
+            }
+          }
+        },
+        "check-if-the-sentence-is-pangram": {
+          "questionId": "1832",
+          "title": "Check if the Sentence Is Pangram",
+          "titleSlug": "check-if-the-sentence-is-pangram",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732715860,
+              "runtime": "2 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Hash Table/Check if the Sentence Is Pangram/"
+            }
+          }
+        },
+        "find-sum-of-array-product-of-magical-sequences": {
+          "questionId": "3539",
+          "title": "Find Sum of Array Product of Magical Sequences",
+          "titleSlug": "find-sum-of-array-product-of-magical-sequences",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Combinatorics",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732715860,
+              "runtime": "19 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Find Sum of Array Product of Magical Sequences/"
+            }
+          }
+        },
+        "remove-all-adjacent-duplicates-in-string": {
+          "questionId": "1047",
+          "title": "Remove All Adjacent Duplicates In String",
+          "titleSlug": "remove-all-adjacent-duplicates-in-string",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1784732715860,
+              "runtime": "10 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/String/Remove All Adjacent Duplicates In String/"
             }
           }
         }
